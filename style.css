@@ -360,7 +360,7 @@
         flex-wrap: wrap;
     }
 }
-@media (max-width:400px) {
+@media (max-width:500px) {
     .container .navbar .logo{
         font-family: "Caveat";
         margin-left: 17px;
