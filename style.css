@@ -368,7 +368,7 @@
     }
     .container .landingPage .font-dev-img img{
         width: 270px;
-        bottom: 480px;
+        top: 21px;
         right: 0;
         left: 60px;
         margin: 0;
